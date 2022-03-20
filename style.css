@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "7segs";
+	src: url(./7segment.ttf);
+}
+
+html, body {
+	margin: 0 auto;
+}
+
+#clock {
+	text-align: center;
+	width: 99.9vw;
+	font: 25vw "7segs";
+	color: yellow;
+	background-color: rgb(0,0,0,0);
+}
